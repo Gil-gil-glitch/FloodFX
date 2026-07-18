@@ -6,7 +6,7 @@ public enum CellType {
     OPEN(Color.WHITE),
     WALL(Color.DARKGRAY),
     WATER(Color.DODGERBLUE),
-    EXIT(Color.SPRINGGREEN); // Kept your classic Reversi aesthetic!
+    EXIT(Color.SPRINGGREEN);
 
     private final Color color;
 
